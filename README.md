@@ -1,5 +1,5 @@
 # 切版練習
-以六角學院提供的[UI]設計稿(https://xd.adobe.com/view/4922398e-1a6e-4d4b-848c-044a079713bb-1c71/specs/)自行撰寫
+以六角學院提供的[UI設計稿](https://xd.adobe.com/view/4922398e-1a6e-4d4b-848c-044a079713bb-1c71/specs/)自行撰寫
 ## 實作
 - 首頁與方案費用兩個頁面
 - 響應式網頁(RWD網頁，電腦、手機、平板)
