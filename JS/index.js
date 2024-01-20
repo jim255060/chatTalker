@@ -24,6 +24,8 @@ $(document).ready(function () {
 
     // 方案選擇
     $('.member_box li').click(function () {
-        $('.item').text($(this).find('#choose').text());
+      $('.item').text($(this).find('#choose').text());
+      $('.m_price').text(($(this).find('#choose').text()) * (0.06));
+      $('.m_pricePro').text(($(this).find('#choose').text()) * (0.16));
     })
 })
